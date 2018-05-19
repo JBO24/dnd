@@ -1,0 +1,10 @@
+@import '../../variables';
+
+.wrapper {
+  padding-bottom: $padding-encounter-overview;
+}
+
+a {
+  color: $default-text-color;
+  text-decoration: none;
+}

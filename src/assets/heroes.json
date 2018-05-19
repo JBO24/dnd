@@ -1,0 +1,37 @@
+[
+  {
+    "nameCharacter": "Hero1",
+    "namePlayer": "Jens",
+    "hitPoints": 380,
+    "armorClass": 4,
+    "initiativeModifier": 5
+  },
+  {
+    "nameCharacter": "Nick",
+    "namePlayer": "Player 2",
+    "hitPoints": 300,
+    "armorClass": 3,
+    "initiativeModifier": 2
+  },
+  {
+    "nameCharacter": "Hero3",
+    "namePlayer": "Player 3",
+    "hitPoints": 190,
+    "armorClass": 1,
+    "initiativeModifier": 1
+  },
+  {
+    "nameCharacter": "Hero4",
+    "namePlayer": "Player 4",
+    "hitPoints": 220,
+    "armorClass": 3,
+    "initiativeModifier": 2
+  },
+  {
+    "nameCharacter": "Hero5",
+    "namePlayer": "Player 4",
+    "hitPoints": 145,
+    "armorClass": 1,
+    "initiativeModifier": -1
+  }
+]

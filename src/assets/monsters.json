@@ -1,0 +1,62 @@
+[
+  {
+    "nameCharacter": "Monster1",
+    "hitPoints": 135,
+    "armorClass": 2,
+    "initiativeModifier": 3
+  },
+  {
+    "nameCharacter": "Monster2",
+    "hitPoints": 180,
+    "armorClass": 1,
+    "initiativeModifier": 1
+  },
+  {
+    "nameCharacter": "Monster3",
+    "hitPoints": 250,
+    "armorClass": 4,
+    "initiativeModifier": -1
+  },
+  {
+    "nameCharacter": "Monster4",
+    "hitPoints": 120,
+    "armorClass": 2,
+    "initiativeModifier": 2
+  },
+  {
+    "nameCharacter": "Monster5",
+    "hitPoints": 320,
+    "armorClass": 1,
+    "initiativeModifier": 3
+  },
+  {
+    "nameCharacter": "Monster6",
+    "hitPoints": 140,
+    "armorClass": 3,
+    "initiativeModifier": -3
+  },
+  {
+    "nameCharacter": "Monster7",
+    "hitPoints": 195,
+    "armorClass": 1,
+    "initiativeModifier": 1
+  },
+  {
+    "nameCharacter": "Monster8",
+    "hitPoints": 225,
+    "armorClass": 3,
+    "initiativeModifier": 1
+  },
+  {
+    "nameCharacter": "Monster9",
+    "hitPoints": 165,
+    "armorClass": 2,
+    "initiativeModifier": 2
+  },
+  {
+    "nameCharacter": "Monster10",
+    "hitPoints": 175,
+    "armorClass": 4,
+    "initiativeModifier": 2
+  }
+]

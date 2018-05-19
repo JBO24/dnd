@@ -1,0 +1,23 @@
+<table class="table">
+  <thead class="thead-dark">
+  <tr>
+    <th>Name</th>
+    <th>Player</th>
+    <th>Hit Points</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let monster of monsters">
+      <td>{{monster.nameCharacter}}</td>
+      <td></td>
+      <td>{{monster.hitPoints}}</td>
+    </tr>
+    <tr *ngFor="let hero of heroes">
+      <td>{{hero.nameCharacter}}</td>
+      <td>{{hero.namePlayer}}</td>
+      <td>{{hero.hitPoints}}</td>
+    </tr>
+  </tbody>
+</table>
+
+

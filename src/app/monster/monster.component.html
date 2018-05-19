@@ -1,0 +1,19 @@
+<table class="table">
+  <thead class=thead-light>
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">HP</th>
+    <th scope="col">AC</th>
+    <th scope="col">Init</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let monster of monsters">
+    <td>{{monster.nameCharacter}}</td>
+    <td>{{monster.hitPoints}}</td>
+    <td>{{monster.armorClass}}</td>
+    <td>{{monster.initiativeModifier}}</td>
+  </tr>
+  </tbody>
+</table>
+
